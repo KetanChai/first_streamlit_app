@@ -1,5 +1,5 @@
 import streamlit
-  
+
 streamlit.title('CHAI10 Cafe')
 streamlit.header('Breakfast Menu')
 streamlit.text('🥑 Omega 3 & Blueberry Oatmeal')
